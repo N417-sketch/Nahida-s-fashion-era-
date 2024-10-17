@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="CV for [Your Name] - AutoCAD Draftswoman, Administrator, Post Press Operator">
+    <title>[Your Name] - CV</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+        }
+        header {
+            background-color: #2a9d8f;
+            color: white;
+            padding: 30px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 3em;
+        }
+        header p {
+            font-size: 1.2em;
+            margin-top: 10px;
+        }
+        section {
+            margin: 20px 0;
+        }
+        h2 {
+            border-bottom: 2px solid #2a9d8f;
+            padding-bottom: 5px;
+        }
+        .skills ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .skills li {
+            background-color: #e9c46a;
+            color: #333;
+            padding: 10px;
+            margin: 5px 0;
+            border-radius: 5px;
+        }
+        .contact-info a {
+            color: #2a9d8f;
+            text-decoration: none;
+        }
+        footer {
+            text-align: center;
+            padding: 20px 0;
+            background-color: #264653;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <!-- Header Section -->
+    <header>
+        <h1>[Your Name]</h1>
+        <p>AutoCAD Draftswoman | Administrator | Post Press Operator</p>
+    </header>
+
+    <!-- About Me Section -->
+    <section class="about-me">
+        <h2>About Me</h2>
+        <p>I am an experienced professional with a background in AutoCAD drafting, administration, and post-press operations. With a solid history in both the restaurant industry in Nepal and online jobs, I bring a unique blend of skills to the table, including attention to detail, creative problem-solving, and technical expertise.</p>
+    </section>
+
+    <!-- Skills Section -->
+    <section class="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>AutoCAD Drafting</li>
+            <li>Post-Press Operations</li>
+            <li>Administration & Office Management</li>
+            <li>Project Coordination</li>
+            <li>Customer Service</li>
+        </ul>
+    </section>
+
+    <!-- Experience Section -->
+    <section class="experience">
+        <h2>Work Experience</h2>
+        <h3>Post Press Operator - Thunder Print SDN BHD, Malaysia</h3>
+        <p>Duration: [Add Date]</p>
+        <p>Handling printing press operations, managing machines, and ensuring quality control for various print projects.</p>
+        
+        <h3>Restaurant Owner - [Your Restaurant Name], Nepal</h3>
+        <p>Duration: [Add Date]</p>
+        <p>Managed day-to-day operations, including staff, inventory, customer service, and budgeting.</p>
+
+        <h3>Freelance AutoCAD Draftswoman & Administrator (Online)</h3>
+        <p>Duration: [Add Date]</p>
+        <p>Provided AutoCAD drafting and administrative services for various clients online.</p>
+    </section>
+
+    <!-- Education Section -->
+    <section class="education">
+        <h2>Education</h2>
+        <p>[Add Your Educational Background]</p>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="contact-info">
+        <h2>Contact Information</h2>
+        <p>Email: <a href="mailto:[your.email@example.com]">[your.email@example.com]</a></p>
+        <p>Phone: [Your Phone Number]</p>
+    </section>
+</div>
+
+<!-- Footer -->
+<footer>
+    <p>&copy; 2024 [Your Name]. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
